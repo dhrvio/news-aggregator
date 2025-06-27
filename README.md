@@ -1,4 +1,3 @@
-````md
 # 📰 News Aggregator App
 
 A modern Vite + React + Tailwind CSS frontend to display breaking news using the NewsAPI.  
