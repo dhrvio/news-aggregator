@@ -118,9 +118,6 @@ This project is MIT licensed. Feel free to fork and modify for personal or comme
 Built with ❤️ by [Dhruva Shetty](https://github.com/dhrvio)
 
 ```
-
----
-
 Let me know if:
 - You want badges (Docker build, Vercel deploy, etc.)
 - You’d like me to prep a `deploy.sh` script or GitHub Actions workflow
